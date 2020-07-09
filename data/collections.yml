@@ -42,6 +42,10 @@
       title: Non-Features
       articles:
         - file: ../content/comparison-to-saas/index.md
+    - id: nonfeatures
+      title: python
+      articles:
+        - file: ../content/python/index.md
 
 - id: usage
   title: Usage
