@@ -1,0 +1,1 @@
+[【Python】formatを用いた書式設定の基本](https://hibiki-press.tech/python/format/1015)
